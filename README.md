@@ -2,7 +2,7 @@ CS undergrad at **SIT & DigiPen Singapore**, graduating **Apr 2027** and looking
 
 **Interests:** C++ · AI · Full-stack · Infrastructure<br>
 **Work authorization:** Singapore Citizen · Open to relocation<br>
-**Affiliations:** NVIDIA Student Ambassador · PSA Singapore Intern · SIT Research Assistant
+**Affiliations:** NVIDIA Student Ambassador · SIT Research Assistant
 
 ### Projects
 
