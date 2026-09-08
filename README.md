@@ -1,4 +1,6 @@
-CS undergrad at **SIT & DigiPen Singapore**, graduating **Apr 2027** and looking for **Software Engineering** opportunities.
+### About Me
+
+CS undergrad at **SIT & DigiPen Singapore**, graduating **Apr 2027** and looking for **Software Engineering** opportunities!
 
 **Interests:** C++ · AI · Full-stack · Infrastructure<br>
 **Work authorization:** Singapore Citizen · Open to relocation<br>
@@ -10,7 +12,7 @@ CS undergrad at **SIT & DigiPen Singapore**, graduating **Apr 2027** and looking
 
 * **Any-Angle Pathfinding Research** · C++ research on optimal any-angle pathfinding and performance. *(Repository currently private.)*
 * **[Kusane / GAM300](https://github.com/yyan115/GAM300)** · Tech lead for a cross-platform C++ 3D game engine built for a hack-and-slash game, available on Windows, Linux, and Android.
-* **[Duck Engine / Quack Kitchen](https://github.com/yyan115/DigiDucks)** · Custom 2D C++ game engine built for a 2D platformer game, where I worked on graphics and rendering.
+* **[Duck Engine / Quack Kitchen](https://github.com/yyan115/DigiDucks)** · Graphics Programmer for a custom 2D C++ game engine built for a 2D platformer game.
 
 #### AI & Full-stack
 
@@ -20,4 +22,4 @@ CS undergrad at **SIT & DigiPen Singapore**, graduating **Apr 2027** and looking
 
 #### Infrastructure
 
-* **[Home Server](https://github.com/yyan115/home-server)** · Homelab configuration showcase using Ansible, Docker Compose, K3s/Kubernetes, Argo CD, Sealed Secrets, and Tailscale.
+* **[Home Server](https://github.com/yyan115/home-server)** · Server infrastructure configs using Ansible, Docker Compose, Kubernetes, Argo CD, Sealed Secrets, and Tailscale.
