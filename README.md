@@ -16,7 +16,7 @@ CS undergrad at **SIT & DigiPen Singapore**, graduating **Apr 2027** and looking
 
 #### AI & Full-stack
 
-* **NVIDIA Project** · Full-stack software engineering dashboard with agentic AI integration. *(Repository currently private.)*
+* **NVIDIA Project** · Full-stack emergency shelter planning dashboard with agentic AI integration. *(Repository currently private.)*
 * **[TikTok TechJam 2026 · Track 3](https://github.com/yyan115/Tiktok_TechJam_2026_Track3)** · AI agent loop for autonomous Triton/CUDA GPU kernel optimization with a cryptographically locked evaluator.
 * **[TikTok TechJam 2026 · Track 2](https://github.com/yyan115/Tiktok_TechJam_2026_Track2)** · Autonomous ML research loop that iteratively designs and evaluates recommender-system pipelines on KuaiRand.
 
